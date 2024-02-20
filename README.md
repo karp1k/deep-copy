@@ -1,4 +1,4 @@
-#DeepCopy task for Lightspeed
+# DeepCopy task for Lightspeed
 
 Project for [task](https://github.com/Ecwid/new-job/blob/master/Deep-clone.md)
 
